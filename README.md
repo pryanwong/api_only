@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# api_only
+API only version of Optecture
+>>>>>>> dee6396f8122031a9a8610938977828fcc1d8c40
